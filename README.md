@@ -102,3 +102,10 @@ This is a portfolio prototype with fictional inventory; it does not process orde
 The generated project structure and configuration were checked in a Linux environment. **The iOS app and XCTest suite have not been compiled or run here because Xcode and Apple SDKs are unavailable. Run ⌘R and ⌘U on your Mac before treating the project as verified or adding performance claims.**
 
 Reference: [DummyJSON Products API](https://dummyjson.com/docs/products).
+
+
+## Screenshots
+
+| Browse products | Product details | Shopping cart |
+|---|---|---|
+| <img src="Screenshots/catalog.png" width="250" alt="Product catalog"> | <img src="Screenshots/product-details.png" width="250" alt="Product details"> | <img src="Screenshots/cart.png" width="250" alt="Shopping cart"> |
